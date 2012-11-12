@@ -7,4 +7,9 @@ public class HelloWorld {
 		return "Hello World";
 	}
 
+	public String getMessage(Object object) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
